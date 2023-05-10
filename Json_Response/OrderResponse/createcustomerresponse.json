@@ -1,0 +1,39 @@
+{
+  "returnCode" : 1000,
+  "returnText" : "Success",
+  "requestUrl" : "/b2bcustomers",
+  "returnDataCount" : 1,
+  "returnData" : {
+    "partyName" : "ZRYPJ WRLXO MEDICAL LIMITED [SP ZRYPJ WRLXO MEDICAL LIMITED]",
+    "partyShortName" : "NATOF SYFCS MEDICAL LIMITED  SP NATOF SYFCS MEDICAL LIMITED ",
+    "partyType" : "OG",
+    "partySubType" : "RRS",
+    "stateCode" : "TN",
+    "gstin" : "33AABCR1719E1ZW",
+    "pan" : "AABCR1719E",
+    "dlNum1" : "RLF20DL2022000105",
+    "dlNum2" : "RLF21DL2022000105",
+    "statusCode" : "ACTV",
+    "distanceKms" : 0,
+    "createdDate" : "2023-03-01T08:25:53.410+0000",
+    "lastUpdateDate" : "2023-03-01T08:25:53.410+0000",
+    "lastUpdateUser" : "API-CSQUARE",
+    "gstinCategoryFlag" : true,
+    "partyContacts" : [ {
+      "addressLine1" : "NO 97/3 97/6, PID NO 34A/898",
+      "addressLine2" : "& RAJEEV NAGAR SHIRUR PARK",
+      "city" : "MADURAI",
+      "stateName" : "Tamil Nadu",
+      "country" : "INDIA",
+      "pincode" : "560026",
+      "emailId" : "networkmedition@netmeds.com",
+      "mobileNum1" : "7860875689",
+      "lastUpdateDate" : "2023-03-01T08:25:53.411+0000",
+      "purposeType" : "OFF_ADD"
+    } ],
+    "customerRefId" : "C2CA360",
+    "tagList" : [ ],
+    "buId" : "000",
+    "partyId" : "1355519"
+  }
+}

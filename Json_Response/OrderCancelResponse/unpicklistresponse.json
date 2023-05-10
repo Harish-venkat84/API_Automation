@@ -1,0 +1,12 @@
+{
+  "returnCode" : 1000,
+  "returnText" : "Order marked as unpick successfully",
+  "requestUrl" : "/nma/picklists/COHX0F220011196?branchCode=769&cmd=unpick",
+  "returnDataCount" : 1,
+  "returnData" : {
+    "orderId" : "ZE-1936144-1",
+    "transactionId" : "COHX0F220011196",
+    "branchCode" : "769",
+    "transactionTimestamp" : "2023-03-01 19:36:15"
+  }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Properties>
+		<Property name="filename">./logsFolder</Property>
+	</Properties>
+	<Appenders>
+		<RollingFile name="file" fileName="${filename}/logs.log" filePattern="${filename}/logs-%d{HH-mm-ss-SSS}.log">
+			<PatternLayout>
+				<pattern>%d{HH:mm:ss:SSS} [%t] %-5level %logger{36} - %msg%n</pattern>
+			</PatternLayout>
+			<SizeBasedTriggeringPolicy size="10 MB" />
+		</RollingFile>
+	</Appenders>
+	<Loggers>
+		<Logger name="com.stepdefinitions" level="trace" additivity="false">
+			<AppenderRef ref="file" />
+		</Logger>
+		<Logger name="listener" level="trace" additivity="false">
+			<AppenderRef ref="file" />
+		</Logger>
+		<Root level="error">
+			<AppenderRef ref="file" />
+		</Root>
+	</Loggers>
+</Configuration>

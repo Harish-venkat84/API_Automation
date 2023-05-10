@@ -1,0 +1,11 @@
+{
+  "returnCode" : 1000,
+  "returnText" : "Customer invoice has been cancelled successfully",
+  "requestUrl" : "/nma/customerinvoices/cancel?branchCode=768",
+  "returnDataCount" : 1,
+  "returnData" : {
+    "returnTransactionId" : "ROHX0E220000119",
+    "orderId" : "TEST1241094",
+    "returnTransactionTimestamp" : "2023-03-01T07:11:14.444+0000"
+  }
+}

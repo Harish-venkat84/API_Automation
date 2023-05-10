@@ -1,0 +1,12 @@
+{
+  "returnCode" : 1000,
+  "returnText" : "Order has been created successfully, Transaction Id : COHX0F220011537",
+  "requestUrl" : "/nma/customerorders?branchCode=769&cmd=create",
+  "returnDataCount" : 1,
+  "returnData" : {
+    "orderId" : "NMS-1137291",
+    "transactionId" : "COHX0F220011537",
+    "branchCode" : "769",
+    "transactionTimestamp" : "2023-03-03 11:37:32"
+  }
+}

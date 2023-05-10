@@ -1,0 +1,12 @@
+[ {
+  "shortPickFlag" : false,
+  "itemId" : "14735",
+  "qty" : 2,
+  "batchId" : "1234556"
+}, {
+  "shortPickFlag" : true,
+  "itemId" : "14735",
+  "batchId" : "1234556",
+  "shortPickReason" : "Stock Not Available",
+  "qty" : 2
+} ]

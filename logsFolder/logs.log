@@ -1,0 +1,1633 @@
+12:35:08:507 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+12:35:08:510 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+12:35:08:511 [main] INFO  listener.Listener - ==========================================
+12:36:38:753 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+12:36:38:755 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+12:36:38:756 [main] INFO  listener.Listener - ==========================================
+12:41:45:952 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+12:41:45:954 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:41:45:954 [main] INFO  listener.Listener - ==========================================
+12:43:16:036 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+12:43:16:039 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:43:16:039 [main] INFO  listener.Listener - ==========================================
+12:43:16:661 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+12:43:16:661 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:43:16:661 [main] INFO  listener.Listener - ==========================================
+12:43:17:373 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+12:43:17:374 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:43:17:374 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [6001]
+12:43:17:374 [main] INFO  listener.Listener - ==========================================
+12:43:17:390 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+12:43:17:390 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:43:17:390 [main] INFO  listener.Listener - 3. Error Message ==> java.lang.String cannot be cast to java.util.List
+12:43:17:390 [main] INFO  listener.Listener - ==========================================
+12:48:08:102 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+12:48:08:103 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:48:08:104 [main] INFO  listener.Listener - ==========================================
+12:48:08:716 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+12:48:08:716 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:48:08:716 [main] INFO  listener.Listener - ==========================================
+12:48:10:042 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+12:48:10:042 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:48:10:042 [main] INFO  listener.Listener - ==========================================
+12:48:10:603 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+12:48:10:603 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:48:10:603 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8202]
+12:48:10:603 [main] INFO  listener.Listener - ==========================================
+12:55:01:716 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+12:55:01:719 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:55:01:719 [main] INFO  listener.Listener - ==========================================
+12:55:02:358 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+12:55:02:358 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:55:02:358 [main] INFO  listener.Listener - ==========================================
+12:55:03:371 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+12:55:03:371 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:55:03:371 [main] INFO  listener.Listener - ==========================================
+12:55:03:908 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+12:55:03:908 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:55:03:908 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8202]
+12:55:03:908 [main] INFO  listener.Listener - ==========================================
+12:57:35:939 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+12:57:35:941 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:57:35:941 [main] INFO  listener.Listener - ==========================================
+12:57:36:470 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+12:57:36:470 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:57:36:470 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8208]
+12:57:36:470 [main] INFO  listener.Listener - ==========================================
+12:57:36:489 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+12:57:36:489 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:57:36:489 [main] INFO  listener.Listener - 3. Error Message ==> java.lang.String cannot be cast to java.util.List
+12:57:36:489 [main] INFO  listener.Listener - ==========================================
+13:00:06:550 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:00:06:554 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+13:00:06:554 [main] INFO  listener.Listener - 3. Error Message ==> Cannot deserialize value of type `java.util.LinkedHashMap<java.lang.Object,java.lang.Object>` from Array value (token `JsonToken.START_ARRAY`)
+ at [Source: (File); line: 1, column: 1]
+13:00:06:554 [main] INFO  listener.Listener - ==========================================
+13:00:09:334 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:00:09:334 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:00:09:334 [main] INFO  listener.Listener - ==========================================
+13:00:09:908 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:00:09:908 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+13:00:09:908 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8208]
+13:00:09:908 [main] INFO  listener.Listener - ==========================================
+13:00:09:925 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+13:00:09:925 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+13:00:09:925 [main] INFO  listener.Listener - 3. Error Message ==> java.lang.String cannot be cast to java.util.List
+13:00:09:925 [main] INFO  listener.Listener - ==========================================
+13:02:21:037 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:02:21:039 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+13:02:21:039 [main] INFO  listener.Listener - 3. Error Message ==> Cannot deserialize value of type `java.util.LinkedHashMap<java.lang.Object,java.lang.Object>` from Array value (token `JsonToken.START_ARRAY`)
+ at [Source: (File); line: 1, column: 1]
+13:02:21:039 [main] INFO  listener.Listener - ==========================================
+13:02:23:661 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:02:23:661 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:02:23:661 [main] INFO  listener.Listener - ==========================================
+13:03:14:790 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:03:14:793 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:03:14:793 [main] INFO  listener.Listener - ==========================================
+13:03:15:405 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:03:15:405 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:03:15:405 [main] INFO  listener.Listener - ==========================================
+13:03:34:628 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:03:34:630 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:03:34:631 [main] INFO  listener.Listener - ==========================================
+13:03:35:210 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:03:35:210 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:03:35:210 [main] INFO  listener.Listener - ==========================================
+13:03:36:089 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:03:36:090 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:03:36:090 [main] INFO  listener.Listener - ==========================================
+13:03:59:439 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:03:59:442 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:03:59:442 [main] INFO  listener.Listener - ==========================================
+13:03:59:985 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:03:59:985 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:03:59:985 [main] INFO  listener.Listener - ==========================================
+13:04:00:824 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:04:00:824 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:04:00:824 [main] INFO  listener.Listener - ==========================================
+13:04:01:579 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+13:04:01:579 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:04:01:579 [main] INFO  listener.Listener - ==========================================
+13:07:09:575 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+13:07:09:577 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:07:09:577 [main] INFO  listener.Listener - ==========================================
+13:07:10:194 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:07:10:194 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:07:10:194 [main] INFO  listener.Listener - ==========================================
+13:07:11:672 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+13:07:11:673 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:07:11:673 [main] INFO  listener.Listener - ==========================================
+13:07:12:204 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+13:07:12:204 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+13:07:12:204 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8202]
+13:07:12:204 [main] INFO  listener.Listener - ==========================================
+13:10:01:852 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+13:10:01:854 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:01:854 [main] INFO  listener.Listener - ==========================================
+13:10:02:479 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:10:02:479 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:02:480 [main] INFO  listener.Listener - ==========================================
+13:10:03:043 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+13:10:03:046 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:03:046 [main] INFO  listener.Listener - ==========================================
+13:10:03:761 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+13:10:03:762 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:03:762 [main] INFO  listener.Listener - ==========================================
+13:10:03:773 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:10:03:773 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:03:773 [main] INFO  listener.Listener - ==========================================
+13:10:04:503 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+13:10:04:503 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:04:503 [main] INFO  listener.Listener - ==========================================
+13:10:04:681 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+13:10:04:681 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:04:681 [main] INFO  listener.Listener - ==========================================
+13:10:05:365 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+13:10:05:365 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:05:365 [main] INFO  listener.Listener - ==========================================
+13:10:35:893 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+13:10:35:895 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:35:896 [main] INFO  listener.Listener - ==========================================
+13:10:36:497 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+13:10:36:497 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:36:497 [main] INFO  listener.Listener - ==========================================
+13:10:37:255 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+13:10:37:255 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:37:255 [main] INFO  listener.Listener - ==========================================
+13:10:38:324 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Order Cancel in invoice state with Single line Item
+13:10:38:324 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:38:324 [main] INFO  listener.Listener - ==========================================
+13:10:52:936 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:10:52:939 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:52:939 [main] INFO  listener.Listener - ==========================================
+13:10:53:567 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:10:53:567 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:53:568 [main] INFO  listener.Listener - ==========================================
+13:10:54:526 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:10:54:526 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:54:526 [main] INFO  listener.Listener - ==========================================
+13:10:55:588 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+13:10:55:588 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:10:55:588 [main] INFO  listener.Listener - ==========================================
+13:17:36:260 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and IGST
+13:17:36:262 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:17:36:262 [main] INFO  listener.Listener - ==========================================
+13:21:16:021 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and IGST
+13:21:16:022 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:21:16:022 [main] INFO  listener.Listener - ==========================================
+13:21:52:764 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and IGST
+13:21:52:766 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:21:52:766 [main] INFO  listener.Listener - ==========================================
+13:23:19:915 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and IGST
+13:23:19:917 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:23:19:917 [main] INFO  listener.Listener - ==========================================
+13:30:18:657 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+13:30:18:660 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:30:18:661 [main] INFO  listener.Listener - ==========================================
+13:31:16:523 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+13:31:16:525 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:16:525 [main] INFO  listener.Listener - ==========================================
+13:31:52:646 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+13:31:52:648 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:31:52:648 [main] INFO  listener.Listener - ==========================================
+13:33:53:711 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+13:33:53:713 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:33:53:713 [main] INFO  listener.Listener - ==========================================
+13:40:47:927 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items-partstock
+13:40:47:929 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:40:47:929 [main] INFO  listener.Listener - ==========================================
+14:21:44:015 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items-partstock
+14:21:44:018 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+14:21:44:018 [main] INFO  listener.Listener - ==========================================
+14:23:05:321 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items-partstock
+14:23:05:323 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:23:05:323 [main] INFO  listener.Listener - ==========================================
+14:32:06:819 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+14:32:06:821 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:32:06:821 [main] INFO  listener.Listener - ==========================================
+14:58:45:763 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+14:58:45:766 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+14:58:45:767 [main] INFO  listener.Listener - ==========================================
+15:00:11:639 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single "single" line Item
+15:00:11:642 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+15:00:11:642 [main] INFO  listener.Listener - 3. Error Message ==> Unresolved compilation problems: 
+	int1 cannot be resolved
+	string cannot be resolved to a variable
+
+15:00:11:642 [main] INFO  listener.Listener - ==========================================
+15:00:33:100 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single "single" line Item
+15:00:33:102 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+15:00:33:103 [main] INFO  listener.Listener - 3. Error Message ==> null
+15:00:33:103 [main] INFO  listener.Listener - ==========================================
+15:01:22:434 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+15:01:22:436 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+15:01:22:436 [main] INFO  listener.Listener - ==========================================
+15:02:35:484 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item
+15:02:35:486 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+15:02:35:486 [main] INFO  listener.Listener - ==========================================
+15:05:05:433 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item
+15:05:05:437 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:05:05:437 [main] INFO  listener.Listener - ==========================================
+15:05:58:548 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item_CGST
+15:05:58:551 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:05:58:551 [main] INFO  listener.Listener - ==========================================
+15:24:08:844 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C create order with same shipping and billing address
+15:24:08:847 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+15:24:08:847 [main] INFO  listener.Listener - ==========================================
+15:37:31:245 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C create order with same shipping and billing address
+15:37:31:248 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:37:31:248 [main] INFO  listener.Listener - ==========================================
+15:41:19:822 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item_IGST
+15:41:19:824 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:41:19:824 [main] INFO  listener.Listener - ==========================================
+15:41:20:565 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C create order with same shipping and billing address
+15:41:20:565 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:41:20:565 [main] INFO  listener.Listener - ==========================================
+15:41:51:540 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item_IGST
+15:41:51:544 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:41:51:544 [main] INFO  listener.Listener - ==========================================
+15:58:44:708 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+15:58:44:710 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+15:58:44:710 [main] INFO  listener.Listener - ==========================================
+16:01:17:616 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items-partstock
+16:01:17:618 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:01:17:619 [main] INFO  listener.Listener - ==========================================
+16:04:00:302 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+16:04:00:304 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:04:00:304 [main] INFO  listener.Listener - ==========================================
+16:21:25:725 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+16:21:25:727 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:21:25:727 [main] INFO  listener.Listener - ==========================================
+16:22:24:484 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+16:22:24:486 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:22:24:486 [main] INFO  listener.Listener - ==========================================
+16:25:18:367 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Item with no stock
+16:25:18:370 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:25:18:370 [main] INFO  listener.Listener - ==========================================
+16:25:57:623 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Item with no stock
+16:25:57:626 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:25:57:626 [main] INFO  listener.Listener - ==========================================
+16:27:26:187 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Item with no stock
+16:27:26:189 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:27:26:189 [main] INFO  listener.Listener - ==========================================
+16:27:36:929 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+16:27:36:931 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:27:36:931 [main] INFO  listener.Listener - ==========================================
+16:29:03:114 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+16:29:03:117 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:29:03:117 [main] INFO  listener.Listener - ==========================================
+16:29:03:719 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+16:29:03:719 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:29:03:719 [main] INFO  listener.Listener - ==========================================
+16:29:04:384 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with shortpic
+16:29:04:384 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+16:29:04:384 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [6001]
+16:29:04:384 [main] INFO  listener.Listener - ==========================================
+16:29:33:996 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+16:29:33:998 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:29:33:998 [main] INFO  listener.Listener - ==========================================
+16:29:35:618 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+16:29:35:618 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:29:35:618 [main] INFO  listener.Listener - ==========================================
+16:29:36:234 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+16:29:36:234 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+16:29:36:234 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [6001]
+16:29:36:234 [main] INFO  listener.Listener - ==========================================
+16:29:36:279 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+16:29:36:279 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+16:29:36:279 [main] INFO  listener.Listener - 3. Error Message ==> java.lang.String cannot be cast to java.util.List
+16:29:36:279 [main] INFO  listener.Listener - ==========================================
+16:30:00:654 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+16:30:00:656 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:30:00:656 [main] INFO  listener.Listener - ==========================================
+16:30:01:262 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+16:30:01:262 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:30:01:262 [main] INFO  listener.Listener - ==========================================
+16:30:01:896 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with multiple line Item
+16:30:01:896 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+16:30:01:896 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [6001]
+16:30:01:896 [main] INFO  listener.Listener - ==========================================
+16:30:32:575 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+16:30:32:577 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:30:32:577 [main] INFO  listener.Listener - ==========================================
+16:30:33:207 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in open state
+16:30:33:207 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:30:33:207 [main] INFO  listener.Listener - ==========================================
+16:30:47:620 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+16:30:47:622 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:30:47:622 [main] INFO  listener.Listener - ==========================================
+16:30:48:543 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+16:30:48:543 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:30:48:543 [main] INFO  listener.Listener - ==========================================
+16:30:49:063 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in picking state
+16:30:49:063 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:30:49:063 [main] INFO  listener.Listener - ==========================================
+16:30:49:654 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in open state
+16:30:49:654 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:30:49:654 [main] INFO  listener.Listener - ==========================================
+16:32:15:438 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+16:32:15:440 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:32:15:440 [main] INFO  listener.Listener - ==========================================
+16:32:16:074 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+16:32:16:074 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:32:16:074 [main] INFO  listener.Listener - ==========================================
+16:32:16:718 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with shortpic
+16:32:16:718 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+16:32:16:718 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [6001]
+16:32:16:718 [main] INFO  listener.Listener - ==========================================
+16:33:51:009 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+16:33:51:011 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:33:51:011 [main] INFO  listener.Listener - ==========================================
+16:33:51:643 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+16:33:51:643 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:33:51:643 [main] INFO  listener.Listener - ==========================================
+16:33:52:708 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with shortpic
+16:33:52:708 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:33:52:708 [main] INFO  listener.Listener - ==========================================
+16:34:10:746 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+16:34:10:748 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:34:10:748 [main] INFO  listener.Listener - ==========================================
+16:34:11:438 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+16:34:11:438 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:34:11:439 [main] INFO  listener.Listener - ==========================================
+16:34:12:562 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+16:34:12:562 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:34:12:563 [main] INFO  listener.Listener - ==========================================
+16:34:13:316 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+16:34:13:316 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:34:13:316 [main] INFO  listener.Listener - ==========================================
+16:38:07:338 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with different shipping and billing address
+16:38:07:341 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:38:07:341 [main] INFO  listener.Listener - ==========================================
+16:46:34:599 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C create order with same shipping and billing address
+16:46:34:601 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:46:34:602 [main] INFO  listener.Listener - ==========================================
+16:46:35:390 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with different shipping and billing address
+16:46:35:390 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:46:35:390 [main] INFO  listener.Listener - ==========================================
+16:55:41:913 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item_nostock
+16:55:41:916 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:55:41:917 [main] INFO  listener.Listener - ==========================================
+16:56:45:029 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item_nostock
+16:56:45:031 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:56:45:031 [main] INFO  listener.Listener - ==========================================
+16:57:48:387 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item_partstock
+16:57:48:390 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+16:57:48:390 [main] INFO  listener.Listener - ==========================================
+16:59:06:978 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item_partstock
+16:59:06:980 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+16:59:06:980 [main] INFO  listener.Listener - ==========================================
+17:00:53:997 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+17:00:53:999 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:00:53:999 [main] INFO  listener.Listener - ==========================================
+17:00:54:601 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+17:00:54:602 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:00:54:602 [main] INFO  listener.Listener - ==========================================
+17:00:55:612 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make invoice with shortpick
+17:00:55:613 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:00:55:613 [main] INFO  listener.Listener - ==========================================
+17:31:47:076 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:31:47:079 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:31:47:079 [main] INFO  listener.Listener - ==========================================
+17:33:23:025 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:33:23:027 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:33:23:027 [main] INFO  listener.Listener - ==========================================
+17:33:47:281 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:33:47:287 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:33:47:287 [main] INFO  listener.Listener - ==========================================
+17:35:55:625 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:35:55:628 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:35:55:628 [main] INFO  listener.Listener - ==========================================
+17:44:37:064 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:44:37:066 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:44:37:066 [main] INFO  listener.Listener - ==========================================
+17:48:27:745 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:48:27:747 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:48:27:747 [main] INFO  listener.Listener - ==========================================
+17:49:32:258 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:49:32:260 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+17:49:32:261 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [5000]
+17:49:32:261 [main] INFO  listener.Listener - ==========================================
+17:50:55:906 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:50:55:908 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:50:55:908 [main] INFO  listener.Listener - ==========================================
+17:52:13:482 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:52:13:486 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:52:13:486 [main] INFO  listener.Listener - ==========================================
+17:57:51:346 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+17:57:51:349 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+17:57:51:349 [main] INFO  listener.Listener - ==========================================
+18:01:17:174 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:01:17:176 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:01:17:176 [main] INFO  listener.Listener - ==========================================
+18:03:26:021 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:03:26:023 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:03:26:023 [main] INFO  listener.Listener - ==========================================
+18:05:15:581 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:05:15:584 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:05:15:584 [main] INFO  listener.Listener - ==========================================
+18:08:38:556 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:08:38:558 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:08:38:559 [main] INFO  listener.Listener - ==========================================
+18:09:09:714 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:09:09:718 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:09:09:719 [main] INFO  listener.Listener - ==========================================
+18:10:09:277 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:10:09:280 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:10:09:280 [main] INFO  listener.Listener - ==========================================
+18:12:22:211 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:12:22:214 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:12:22:214 [main] INFO  listener.Listener - ==========================================
+18:13:55:839 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:13:55:842 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:13:55:842 [main] INFO  listener.Listener - ==========================================
+18:16:03:743 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:16:03:746 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:16:03:747 [main] INFO  listener.Listener - ==========================================
+18:19:12:107 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:19:12:109 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+18:19:12:109 [main] INFO  listener.Listener - ==========================================
+18:21:57:311 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:21:57:313 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:21:57:313 [main] INFO  listener.Listener - ==========================================
+18:22:52:305 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:22:52:307 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:22:52:307 [main] INFO  listener.Listener - ==========================================
+18:23:17:271 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+18:23:17:273 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:23:17:273 [main] INFO  listener.Listener - ==========================================
+18:23:54:246 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item
+18:23:54:248 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:23:54:248 [main] INFO  listener.Listener - ==========================================
+18:25:15:429 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:25:15:431 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+18:25:15:431 [main] INFO  listener.Listener - ==========================================
+11:53:27:148 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+11:53:27:152 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:53:27:152 [main] INFO  listener.Listener - ==========================================
+11:53:27:890 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+11:53:27:890 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:53:27:890 [main] INFO  listener.Listener - ==========================================
+11:53:29:175 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+11:53:29:175 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:53:29:175 [main] INFO  listener.Listener - ==========================================
+11:53:30:054 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+11:53:30:055 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:53:30:055 [main] INFO  listener.Listener - ==========================================
+11:54:11:542 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with multiple line Item
+11:54:11:546 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:54:11:546 [main] INFO  listener.Listener - ==========================================
+11:54:12:235 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+11:54:12:235 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:54:12:235 [main] INFO  listener.Listener - ==========================================
+11:54:13:668 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with multiple line Item
+11:54:13:668 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:54:13:668 [main] INFO  listener.Listener - ==========================================
+11:57:28:369 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+11:57:28:375 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+11:57:28:375 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8105]
+11:57:28:376 [main] INFO  listener.Listener - ==========================================
+11:57:28:447 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+11:57:28:447 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+11:57:28:447 [main] INFO  listener.Listener - 3. Error Message ==> Index: 1, Size: 1
+11:57:28:447 [main] INFO  listener.Listener - ==========================================
+11:57:29:224 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+11:57:29:224 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+11:57:29:224 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [1001]
+11:57:29:224 [main] INFO  listener.Listener - ==========================================
+11:57:30:014 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+11:57:30:015 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:57:30:015 [main] INFO  listener.Listener - ==========================================
+11:58:14:502 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+11:58:14:506 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+11:58:14:506 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8105]
+11:58:14:506 [main] INFO  listener.Listener - ==========================================
+11:58:14:568 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+11:58:14:568 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+11:58:14:568 [main] INFO  listener.Listener - 3. Error Message ==> Index: 1, Size: 1
+11:58:14:569 [main] INFO  listener.Listener - ==========================================
+11:58:15:314 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+11:58:15:314 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+11:58:15:314 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [1001]
+11:58:15:314 [main] INFO  listener.Listener - ==========================================
+11:59:15:824 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+11:59:15:828 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:59:15:828 [main] INFO  listener.Listener - ==========================================
+11:59:16:558 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+11:59:16:558 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:59:16:558 [main] INFO  listener.Listener - ==========================================
+11:59:17:667 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+11:59:17:667 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:59:17:667 [main] INFO  listener.Listener - ==========================================
+12:01:03:637 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+12:01:03:642 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:01:03:643 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8105]
+12:01:03:643 [main] INFO  listener.Listener - ==========================================
+12:02:55:119 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+12:02:55:123 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:02:55:123 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8218]
+12:02:55:123 [main] INFO  listener.Listener - ==========================================
+12:07:15:828 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+12:07:15:833 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+12:07:15:833 [main] INFO  listener.Listener - ==========================================
+12:08:04:105 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+12:08:04:110 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+12:08:04:110 [main] INFO  listener.Listener - ==========================================
+12:09:04:519 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+12:09:04:524 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:09:04:524 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8105]
+12:09:04:524 [main] INFO  listener.Listener - ==========================================
+12:21:47:812 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+12:21:47:819 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:21:47:819 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8105]
+12:21:47:820 [main] INFO  listener.Listener - ==========================================
+12:23:56:731 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+12:23:56:735 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:23:56:736 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8105]
+12:23:56:736 [main] INFO  listener.Listener - ==========================================
+12:29:22:033 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+12:29:22:038 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:29:22:038 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8105]
+12:29:22:038 [main] INFO  listener.Listener - ==========================================
+12:36:10:120 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+12:36:10:125 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:36:10:125 [main] INFO  listener.Listener - ==========================================
+12:37:12:414 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and IGST
+12:37:12:418 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:37:12:419 [main] INFO  listener.Listener - ==========================================
+12:46:25:069 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create New Customer CQ
+12:46:25:072 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:46:25:072 [main] INFO  listener.Listener - ==========================================
+12:47:40:540 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and IGST
+12:47:40:543 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:47:40:544 [main] INFO  listener.Listener - ==========================================
+12:54:16:200 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item_IGST
+12:54:16:204 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:54:16:204 [main] INFO  listener.Listener - ==========================================
+12:55:18:983 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item_CGST
+12:55:18:987 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:55:18:987 [main] INFO  listener.Listener - ==========================================
+12:57:10:735 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+12:57:10:740 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:57:10:740 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8218]
+12:57:10:740 [main] INFO  listener.Listener - ==========================================
+12:57:49:682 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+12:57:49:688 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+12:57:49:688 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8218]
+12:57:49:689 [main] INFO  listener.Listener - ==========================================
+13:03:36:501 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+13:03:36:506 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:03:36:506 [main] INFO  listener.Listener - ==========================================
+13:18:57:308 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+13:18:57:315 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+13:18:57:315 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8105]
+13:18:57:315 [main] INFO  listener.Listener - ==========================================
+13:54:40:061 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with shipping charge
+13:54:40:068 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:54:40:069 [main] INFO  listener.Listener - ==========================================
+13:56:14:670 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with out shipping charge
+13:56:14:673 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:56:14:673 [main] INFO  listener.Listener - ==========================================
+13:56:57:653 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with out shipping charge
+13:56:57:657 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+13:56:57:657 [main] INFO  listener.Listener - ==========================================
+14:11:19:140 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with out shipping charge
+14:11:19:143 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+14:11:19:143 [main] INFO  listener.Listener - ==========================================
+14:14:17:562 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with out shipping charge
+14:14:17:563 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:14:17:565 [main] INFO  listener.Listener - ==========================================
+14:14:49:376 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with shipping charge
+14:14:49:379 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:14:49:379 [main] INFO  listener.Listener - ==========================================
+14:15:22:593 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+14:15:22:595 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:15:22:595 [main] INFO  listener.Listener - ==========================================
+14:15:23:194 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+14:15:23:194 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:15:23:194 [main] INFO  listener.Listener - ==========================================
+14:15:24:051 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+14:15:24:052 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:15:24:052 [main] INFO  listener.Listener - ==========================================
+14:22:22:456 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+14:22:22:459 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:22:22:460 [main] INFO  listener.Listener - ==========================================
+14:23:39:607 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+14:23:39:611 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:23:39:611 [main] INFO  listener.Listener - ==========================================
+15:37:57:999 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+15:37:58:001 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:37:58:002 [main] INFO  listener.Listener - ==========================================
+15:37:58:599 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+15:37:58:599 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:37:58:599 [main] INFO  listener.Listener - ==========================================
+15:37:59:365 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+15:37:59:365 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:37:59:365 [main] INFO  listener.Listener - ==========================================
+09:45:12:815 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+09:45:12:817 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+09:45:12:818 [main] INFO  listener.Listener - ==========================================
+09:45:13:376 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+09:45:13:377 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+09:45:13:377 [main] INFO  listener.Listener - ==========================================
+09:45:14:023 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+09:45:14:023 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+09:45:14:023 [main] INFO  listener.Listener - ==========================================
+13:27:04:132 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:27:04:134 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:27:04:135 [main] INFO  listener.Listener - ==========================================
+13:27:04:748 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:27:04:748 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:27:04:748 [main] INFO  listener.Listener - ==========================================
+13:27:05:803 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:27:05:803 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:27:05:803 [main] INFO  listener.Listener - ==========================================
+13:27:22:278 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with multiple line Item
+13:27:22:280 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:27:22:280 [main] INFO  listener.Listener - ==========================================
+13:27:22:852 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:27:22:852 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:27:22:852 [main] INFO  listener.Listener - ==========================================
+13:27:23:688 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with multiple line Item
+13:27:23:688 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:27:23:688 [main] INFO  listener.Listener - ==========================================
+13:28:21:908 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:28:21:913 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:28:21:913 [main] INFO  listener.Listener - ==========================================
+13:28:22:455 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:28:22:455 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:28:22:455 [main] INFO  listener.Listener - ==========================================
+13:28:23:501 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make invoice with shortpick
+13:28:23:501 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:28:23:501 [main] INFO  listener.Listener - ==========================================
+13:29:16:725 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:29:16:727 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:29:16:727 [main] INFO  listener.Listener - ==========================================
+13:29:17:301 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Cancel Order in open state with single line Item
+13:29:17:301 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:29:17:301 [main] INFO  listener.Listener - ==========================================
+13:29:38:836 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:29:38:838 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:29:38:838 [main] INFO  listener.Listener - ==========================================
+13:29:39:450 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:29:39:450 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:29:39:451 [main] INFO  listener.Listener - ==========================================
+13:29:39:949 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in picking state
+13:29:39:949 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:29:39:949 [main] INFO  listener.Listener - ==========================================
+13:29:40:519 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Cancel Order in open state with single line Item
+13:29:40:519 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:29:40:519 [main] INFO  listener.Listener - ==========================================
+13:30:11:412 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+13:30:11:414 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:30:11:414 [main] INFO  listener.Listener - ==========================================
+13:30:11:956 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:30:11:956 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:30:11:956 [main] INFO  listener.Listener - ==========================================
+13:30:12:849 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:30:12:849 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:30:12:849 [main] INFO  listener.Listener - ==========================================
+13:30:13:583 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+13:30:13:583 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:30:13:583 [main] INFO  listener.Listener - ==========================================
+13:31:04:762 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+13:31:04:765 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:04:765 [main] INFO  listener.Listener - ==========================================
+13:31:05:345 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:31:05:346 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:05:346 [main] INFO  listener.Listener - ==========================================
+13:31:06:171 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:31:06:171 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:06:171 [main] INFO  listener.Listener - ==========================================
+13:31:30:526 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+13:31:30:528 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:30:528 [main] INFO  listener.Listener - ==========================================
+13:31:31:084 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:31:31:084 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:31:084 [main] INFO  listener.Listener - ==========================================
+13:31:31:936 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:31:31:936 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:31:936 [main] INFO  listener.Listener - ==========================================
+13:31:49:092 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+13:31:49:094 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:49:094 [main] INFO  listener.Listener - ==========================================
+13:31:49:633 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:31:49:633 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:49:633 [main] INFO  listener.Listener - ==========================================
+13:31:50:498 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:31:50:498 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:31:50:498 [main] INFO  listener.Listener - ==========================================
+13:31:51:015 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Update Shipping Status as in-transit
+13:31:51:015 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+13:31:51:015 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8202]
+13:31:51:015 [main] INFO  listener.Listener - ==========================================
+13:32:58:592 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Update Shipping Status as in-transit
+13:32:58:595 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:32:58:595 [main] INFO  listener.Listener - ==========================================
+13:33:25:133 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+13:33:25:136 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:33:25:136 [main] INFO  listener.Listener - ==========================================
+13:33:25:695 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+13:33:25:695 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:33:25:695 [main] INFO  listener.Listener - ==========================================
+13:33:26:642 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+13:33:26:642 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:33:26:642 [main] INFO  listener.Listener - ==========================================
+13:33:27:162 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Update Shipping Status as delivered
+13:33:27:162 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+13:33:27:162 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8202]
+13:33:27:162 [main] INFO  listener.Listener - ==========================================
+13:34:02:895 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Update Shipping Status as delivered
+13:34:02:897 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:34:02:897 [main] INFO  listener.Listener - ==========================================
+13:46:52:032 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+13:46:52:035 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:46:52:035 [main] INFO  listener.Listener - ==========================================
+13:46:52:626 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:46:52:626 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:46:52:626 [main] INFO  listener.Listener - ==========================================
+13:46:54:289 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with shortpic
+13:46:54:289 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:46:54:289 [main] INFO  listener.Listener - ==========================================
+13:49:22:509 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+13:49:22:511 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:49:22:511 [main] INFO  listener.Listener - ==========================================
+13:49:23:065 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:49:23:066 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:49:23:066 [main] INFO  listener.Listener - ==========================================
+13:49:24:698 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with shortpic
+13:49:24:698 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:49:24:698 [main] INFO  listener.Listener - ==========================================
+13:49:48:179 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+13:49:48:181 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:49:48:181 [main] INFO  listener.Listener - ==========================================
+13:49:48:720 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:49:48:720 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:49:48:720 [main] INFO  listener.Listener - ==========================================
+13:49:49:641 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with shortpic
+13:49:49:641 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:49:49:641 [main] INFO  listener.Listener - ==========================================
+13:50:10:726 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+13:50:10:727 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:50:10:727 [main] INFO  listener.Listener - ==========================================
+13:50:11:300 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:50:11:300 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:50:11:300 [main] INFO  listener.Listener - ==========================================
+13:50:12:364 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+13:50:12:365 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:50:12:365 [main] INFO  listener.Listener - ==========================================
+13:50:39:969 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+13:50:39:971 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:50:39:971 [main] INFO  listener.Listener - ==========================================
+13:50:40:530 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+13:50:40:531 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:50:40:531 [main] INFO  listener.Listener - ==========================================
+13:50:41:391 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with multiple line Item
+13:50:41:391 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:50:41:391 [main] INFO  listener.Listener - ==========================================
+13:51:46:933 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+13:51:46:935 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:51:46:935 [main] INFO  listener.Listener - ==========================================
+14:06:01:429 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+14:06:01:432 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:01:432 [main] INFO  listener.Listener - ==========================================
+14:06:02:013 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in open state
+14:06:02:013 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:02:013 [main] INFO  listener.Listener - ==========================================
+14:06:18:363 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+14:06:18:366 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:18:366 [main] INFO  listener.Listener - ==========================================
+14:06:18:923 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+14:06:18:924 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:18:924 [main] INFO  listener.Listener - ==========================================
+14:06:19:438 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in picking state
+14:06:19:438 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:19:438 [main] INFO  listener.Listener - ==========================================
+14:06:19:993 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in open state
+14:06:19:993 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:19:994 [main] INFO  listener.Listener - ==========================================
+14:06:44:442 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+14:06:44:443 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:44:443 [main] INFO  listener.Listener - ==========================================
+14:06:44:989 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+14:06:44:989 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:44:989 [main] INFO  listener.Listener - ==========================================
+14:06:46:225 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+14:06:46:225 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:46:225 [main] INFO  listener.Listener - ==========================================
+14:06:46:913 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+14:06:46:913 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:06:46:913 [main] INFO  listener.Listener - ==========================================
+14:07:19:102 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+14:07:19:103 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:07:19:104 [main] INFO  listener.Listener - ==========================================
+14:07:19:723 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+14:07:19:723 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:07:19:723 [main] INFO  listener.Listener - ==========================================
+14:07:20:707 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+14:07:20:707 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+14:07:20:707 [main] INFO  listener.Listener - ==========================================
+17:39:06:919 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+17:39:06:924 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:39:06:925 [main] INFO  listener.Listener - ==========================================
+17:39:07:589 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+17:39:07:589 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:39:07:589 [main] INFO  listener.Listener - ==========================================
+17:39:09:287 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with shortpic
+17:39:09:287 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:39:09:287 [main] INFO  listener.Listener - ==========================================
+17:48:39:336 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+17:48:39:338 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:48:39:338 [main] INFO  listener.Listener - ==========================================
+17:48:39:998 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+17:48:39:998 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:48:39:998 [main] INFO  listener.Listener - ==========================================
+17:48:41:439 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+17:48:41:439 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:48:41:439 [main] INFO  listener.Listener - ==========================================
+17:48:59:809 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+17:48:59:810 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:48:59:810 [main] INFO  listener.Listener - ==========================================
+17:49:00:411 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+17:49:00:411 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:49:00:411 [main] INFO  listener.Listener - ==========================================
+17:49:01:591 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with multiple line Item
+17:49:01:591 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:49:01:591 [main] INFO  listener.Listener - ==========================================
+17:49:33:925 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+17:49:33:927 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:49:33:927 [main] INFO  listener.Listener - ==========================================
+17:49:34:567 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in open state
+17:49:34:567 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:49:34:567 [main] INFO  listener.Listener - ==========================================
+17:49:52:203 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+17:49:52:205 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:49:52:205 [main] INFO  listener.Listener - ==========================================
+17:49:52:800 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+17:49:52:800 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:49:52:800 [main] INFO  listener.Listener - ==========================================
+17:49:53:327 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in picking state
+17:49:53:327 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:49:53:327 [main] INFO  listener.Listener - ==========================================
+17:49:53:891 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in open state
+17:49:53:892 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:49:53:892 [main] INFO  listener.Listener - ==========================================
+17:50:36:381 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+17:50:36:383 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:50:36:383 [main] INFO  listener.Listener - ==========================================
+17:50:36:999 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+17:50:36:999 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:50:36:999 [main] INFO  listener.Listener - ==========================================
+17:50:37:918 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+17:50:37:918 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:50:37:918 [main] INFO  listener.Listener - ==========================================
+17:50:38:707 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Customer Order Cancel in invoice state with Single line Items_IGST
+17:50:38:707 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:50:38:707 [main] INFO  listener.Listener - ==========================================
+17:51:06:426 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+17:51:06:429 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:51:06:429 [main] INFO  listener.Listener - ==========================================
+17:51:07:124 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+17:51:07:124 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:51:07:124 [main] INFO  listener.Listener - ==========================================
+17:51:08:561 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+17:51:08:562 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:51:08:562 [main] INFO  listener.Listener - ==========================================
+18:01:23:908 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and CGST
+18:01:23:910 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:01:23:910 [main] INFO  listener.Listener - ==========================================
+18:01:24:515 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+18:01:24:515 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:01:24:515 [main] INFO  listener.Listener - ==========================================
+18:01:25:613 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+18:01:25:613 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:01:25:613 [main] INFO  listener.Listener - ==========================================
+18:02:20:180 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and IGST
+18:02:20:182 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:02:20:182 [main] INFO  listener.Listener - ==========================================
+18:02:20:776 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+18:02:20:776 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:02:20:776 [main] INFO  listener.Listener - ==========================================
+18:02:21:932 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+18:02:21:932 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:02:21:932 [main] INFO  listener.Listener - ==========================================
+18:03:04:131 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and IGST
+18:03:04:133 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:03:04:134 [main] INFO  listener.Listener - ==========================================
+18:03:04:715 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+18:03:04:715 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:03:04:715 [main] INFO  listener.Listener - ==========================================
+18:03:06:080 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+18:03:06:080 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:03:06:080 [main] INFO  listener.Listener - ==========================================
+18:03:06:599 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Update Shipping Status as in-transit
+18:03:06:599 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:03:06:599 [main] INFO  listener.Listener - ==========================================
+18:03:56:573 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item and IGST
+18:03:56:575 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:03:56:575 [main] INFO  listener.Listener - ==========================================
+18:03:57:169 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+18:03:57:169 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:03:57:169 [main] INFO  listener.Listener - ==========================================
+18:03:58:256 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+18:03:58:256 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:03:58:256 [main] INFO  listener.Listener - ==========================================
+18:03:58:817 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Update Shipping Status
+18:03:58:817 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:03:58:817 [main] INFO  listener.Listener - ==========================================
+18:11:59:177 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+18:11:59:179 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:11:59:180 [main] INFO  listener.Listener - ==========================================
+18:11:59:874 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:11:59:874 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:11:59:874 [main] INFO  listener.Listener - ==========================================
+18:12:00:618 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with shortpick
+18:12:00:618 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:12:00:618 [main] INFO  listener.Listener - ==========================================
+18:13:42:444 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+18:13:42:447 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:13:42:447 [main] INFO  listener.Listener - ==========================================
+18:13:43:053 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:13:43:053 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:13:43:053 [main] INFO  listener.Listener - ==========================================
+18:13:43:740 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with shortpick
+18:13:43:740 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:13:43:740 [main] INFO  listener.Listener - ==========================================
+18:16:03:910 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+18:16:03:913 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:16:03:913 [main] INFO  listener.Listener - ==========================================
+18:16:04:519 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:16:04:519 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:16:04:519 [main] INFO  listener.Listener - ==========================================
+18:16:05:252 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+18:16:05:252 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:16:05:252 [main] INFO  listener.Listener - ==========================================
+18:16:38:455 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item
+18:16:38:457 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:16:38:457 [main] INFO  listener.Listener - ==========================================
+18:16:39:028 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:16:39:028 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:16:39:028 [main] INFO  listener.Listener - ==========================================
+18:16:39:725 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with multiple line Item
+18:16:39:725 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:16:39:725 [main] INFO  listener.Listener - ==========================================
+18:18:55:426 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item
+18:18:55:428 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:18:55:429 [main] INFO  listener.Listener - ==========================================
+18:18:56:066 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Cancel Order in open state with single line Item
+18:18:56:067 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:18:56:067 [main] INFO  listener.Listener - ==========================================
+18:19:14:922 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item
+18:19:14:924 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:19:14:925 [main] INFO  listener.Listener - ==========================================
+18:19:15:591 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:19:15:591 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:19:15:591 [main] INFO  listener.Listener - ==========================================
+18:19:16:144 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Order Cancel in picking state
+18:19:16:144 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:19:16:144 [main] INFO  listener.Listener - ==========================================
+18:19:16:708 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Cancel Order in open state with single line Item
+18:19:16:708 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:19:16:708 [main] INFO  listener.Listener - ==========================================
+18:19:40:443 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with multiple line Item
+18:19:40:445 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:19:40:445 [main] INFO  listener.Listener - ==========================================
+18:19:41:056 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:19:41:056 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:19:41:057 [main] INFO  listener.Listener - ==========================================
+18:19:41:889 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with multiple line Item
+18:19:41:889 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:19:41:889 [main] INFO  listener.Listener - ==========================================
+18:19:42:867 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Order Cancel in invoice state with Single line Item
+18:19:42:867 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:19:42:867 [main] INFO  listener.Listener - ==========================================
+18:21:50:734 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:21:50:736 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:21:50:736 [main] INFO  listener.Listener - ==========================================
+18:21:51:367 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:21:51:367 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:21:51:367 [main] INFO  listener.Listener - ==========================================
+18:21:52:060 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+18:21:52:060 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:21:52:060 [main] INFO  listener.Listener - ==========================================
+18:22:35:266 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with without discount
+18:22:35:268 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:22:35:269 [main] INFO  listener.Listener - ==========================================
+18:22:35:842 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:22:35:842 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:22:35:842 [main] INFO  listener.Listener - ==========================================
+18:22:36:509 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+18:22:36:510 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:22:36:510 [main] INFO  listener.Listener - ==========================================
+18:29:36:624 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with shipping charge
+18:29:36:626 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:29:36:627 [main] INFO  listener.Listener - ==========================================
+18:29:37:454 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:29:37:455 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:29:37:455 [main] INFO  listener.Listener - ==========================================
+18:29:38:158 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+18:29:38:158 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:29:38:158 [main] INFO  listener.Listener - ==========================================
+18:30:08:979 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with out shipping charge
+18:30:08:981 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:30:08:981 [main] INFO  listener.Listener - ==========================================
+18:30:09:598 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:30:09:599 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:30:09:599 [main] INFO  listener.Listener - ==========================================
+18:30:10:245 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+18:30:10:245 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:30:10:245 [main] INFO  listener.Listener - ==========================================
+18:30:40:170 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C create order with same shipping and billing address
+18:30:40:172 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:30:40:172 [main] INFO  listener.Listener - ==========================================
+18:30:40:740 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:30:40:741 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:30:40:741 [main] INFO  listener.Listener - ==========================================
+18:30:41:395 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+18:30:41:395 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:30:41:395 [main] INFO  listener.Listener - ==========================================
+18:32:11:017 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with different shipping and billing address
+18:32:11:019 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:32:11:019 [main] INFO  listener.Listener - ==========================================
+18:32:12:003 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+18:32:12:003 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:32:12:003 [main] INFO  listener.Listener - ==========================================
+18:32:12:677 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+18:32:12:678 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:32:12:678 [main] INFO  listener.Listener - ==========================================
+19:13:45:014 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+19:13:45:018 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+19:13:45:018 [main] INFO  listener.Listener - ==========================================
+19:27:10:754 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+19:27:10:756 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+19:27:10:757 [main] INFO  listener.Listener - ==========================================
+19:29:10:194 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+19:29:10:196 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:29:10:196 [main] INFO  listener.Listener - ==========================================
+19:29:10:237 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+19:29:10:237 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+19:29:10:237 [main] INFO  listener.Listener - 3. Error Message ==> path cannot be null
+19:29:10:237 [main] INFO  listener.Listener - ==========================================
+19:30:31:979 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+19:30:31:981 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:30:31:982 [main] INFO  listener.Listener - ==========================================
+19:30:32:531 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+19:30:32:532 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:30:32:532 [main] INFO  listener.Listener - ==========================================
+19:39:34:397 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+19:39:34:401 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+19:39:34:401 [main] INFO  listener.Listener - ==========================================
+19:40:44:711 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+19:40:44:713 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:40:44:713 [main] INFO  listener.Listener - ==========================================
+19:40:45:275 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+19:40:45:275 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+19:40:45:275 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8402]
+19:40:45:275 [main] INFO  listener.Listener - ==========================================
+19:41:43:361 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+19:41:43:362 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:41:43:362 [main] INFO  listener.Listener - ==========================================
+19:41:43:398 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+19:41:43:398 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+19:41:43:398 [main] INFO  listener.Listener - 3. Error Message ==> path cannot be null
+19:41:43:398 [main] INFO  listener.Listener - ==========================================
+19:41:43:914 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+19:41:43:914 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+19:41:43:914 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8402]
+19:41:43:914 [main] INFO  listener.Listener - ==========================================
+19:42:09:383 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+19:42:09:386 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:42:09:386 [main] INFO  listener.Listener - ==========================================
+19:42:09:421 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+19:42:09:422 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+19:42:09:422 [main] INFO  listener.Listener - 3. Error Message ==> path cannot be null
+19:42:09:422 [main] INFO  listener.Listener - ==========================================
+22:06:37:078 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+22:06:37:084 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+22:06:37:084 [main] INFO  listener.Listener - ==========================================
+22:06:37:156 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+22:06:37:156 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+22:06:37:156 [main] INFO  listener.Listener - 3. Error Message ==> path cannot be null
+22:06:37:156 [main] INFO  listener.Listener - ==========================================
+22:08:33:639 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+22:08:33:642 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+22:08:33:642 [main] INFO  listener.Listener - ==========================================
+22:08:34:312 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+22:08:34:312 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+22:08:34:312 [main] INFO  listener.Listener - ==========================================
+22:10:26:129 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+22:10:26:132 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+22:10:26:132 [main] INFO  listener.Listener - ==========================================
+22:20:02:943 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+22:20:02:946 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+22:20:02:947 [main] INFO  listener.Listener - ==========================================
+22:20:03:542 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+22:20:03:542 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+22:20:03:542 [main] INFO  listener.Listener - ==========================================
+22:20:20:563 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+22:20:20:565 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+22:20:20:565 [main] INFO  listener.Listener - ==========================================
+10:12:42:476 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+10:12:42:480 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:12:42:480 [main] INFO  listener.Listener - ==========================================
+10:12:42:530 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+10:12:42:531 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+10:12:42:531 [main] INFO  listener.Listener - 3. Error Message ==> path cannot be null
+10:12:42:531 [main] INFO  listener.Listener - ==========================================
+10:14:25:831 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+10:14:25:834 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:14:25:835 [main] INFO  listener.Listener - ==========================================
+10:14:25:878 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+10:14:25:879 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+10:14:25:879 [main] INFO  listener.Listener - 3. Error Message ==> path cannot be null
+10:14:25:879 [main] INFO  listener.Listener - ==========================================
+10:18:23:559 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+10:18:23:562 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:18:23:562 [main] INFO  listener.Listener - ==========================================
+10:18:23:609 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+10:18:23:609 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+10:18:23:609 [main] INFO  listener.Listener - 3. Error Message ==> path cannot be null
+10:18:23:609 [main] INFO  listener.Listener - ==========================================
+10:19:25:366 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+10:19:25:368 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:19:25:369 [main] INFO  listener.Listener - ==========================================
+10:19:25:412 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+10:19:25:412 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+10:19:25:412 [main] INFO  listener.Listener - 3. Error Message ==> path cannot be null
+10:19:25:412 [main] INFO  listener.Listener - ==========================================
+10:25:38:228 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+10:25:38:231 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:25:38:231 [main] INFO  listener.Listener - ==========================================
+10:25:38:804 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+10:25:38:805 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:25:38:805 [main] INFO  listener.Listener - ==========================================
+10:26:00:406 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+10:26:00:408 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:26:00:409 [main] INFO  listener.Listener - ==========================================
+10:26:00:994 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+10:26:00:995 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:26:00:995 [main] INFO  listener.Listener - ==========================================
+10:26:01:545 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+10:26:01:545 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:26:01:545 [main] INFO  listener.Listener - ==========================================
+10:26:36:938 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+10:26:36:944 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:26:36:944 [main] INFO  listener.Listener - ==========================================
+10:26:37:752 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+10:26:37:752 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:26:37:754 [main] INFO  listener.Listener - ==========================================
+10:26:38:491 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+10:26:38:492 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:26:38:492 [main] INFO  listener.Listener - ==========================================
+10:26:39:111 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Cancel Order in open state with single line Item
+10:26:39:111 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:26:39:111 [main] INFO  listener.Listener - ==========================================
+13:20:50:353 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+13:20:50:355 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:20:50:355 [main] INFO  listener.Listener - ==========================================
+13:20:50:818 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+13:20:50:818 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:20:50:818 [main] INFO  listener.Listener - ==========================================
+13:20:51:549 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+13:20:51:549 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:20:51:549 [main] INFO  listener.Listener - ==========================================
+13:20:52:485 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Cancel Order in open state with single line Item
+13:20:52:485 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:20:52:485 [main] INFO  listener.Listener - ==========================================
+15:25:15:956 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+15:25:15:958 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:25:15:958 [main] INFO  listener.Listener - ==========================================
+15:25:16:613 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:25:16:613 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:25:16:613 [main] INFO  listener.Listener - ==========================================
+15:25:17:974 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+15:25:17:974 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:25:17:974 [main] INFO  listener.Listener - ==========================================
+15:25:31:446 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with multiple line Item
+15:25:31:448 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:25:31:448 [main] INFO  listener.Listener - ==========================================
+15:25:32:051 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:25:32:051 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:25:32:051 [main] INFO  listener.Listener - ==========================================
+15:25:33:008 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with multiple line Item
+15:25:33:008 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:25:33:008 [main] INFO  listener.Listener - ==========================================
+15:25:46:696 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+15:25:46:698 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:25:46:698 [main] INFO  listener.Listener - ==========================================
+15:25:47:264 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:25:47:264 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:25:47:264 [main] INFO  listener.Listener - ==========================================
+15:25:48:372 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make invoice with shortpick
+15:25:48:372 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:25:48:372 [main] INFO  listener.Listener - ==========================================
+15:26:01:420 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+15:26:01:423 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:01:423 [main] INFO  listener.Listener - ==========================================
+15:26:02:006 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Cancel Order in open state with single line Item
+15:26:02:006 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:02:006 [main] INFO  listener.Listener - ==========================================
+15:26:27:022 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+15:26:27:025 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:27:026 [main] INFO  listener.Listener - ==========================================
+15:26:27:641 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:26:27:641 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:27:641 [main] INFO  listener.Listener - ==========================================
+15:26:28:173 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in picking state
+15:26:28:173 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:28:173 [main] INFO  listener.Listener - ==========================================
+15:26:28:735 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Cancel Order in open state with single line Item
+15:26:28:735 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:28:735 [main] INFO  listener.Listener - ==========================================
+15:26:49:274 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+15:26:49:277 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:49:277 [main] INFO  listener.Listener - ==========================================
+15:26:49:860 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:26:49:861 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:49:861 [main] INFO  listener.Listener - ==========================================
+15:26:50:749 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+15:26:50:749 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:50:749 [main] INFO  listener.Listener - ==========================================
+15:26:51:490 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+15:26:51:490 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:26:51:490 [main] INFO  listener.Listener - ==========================================
+15:27:07:111 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_CGST
+15:27:07:113 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:07:114 [main] INFO  listener.Listener - ==========================================
+15:27:07:735 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:27:07:735 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:07:735 [main] INFO  listener.Listener - ==========================================
+15:27:08:626 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+15:27:08:627 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:08:627 [main] INFO  listener.Listener - ==========================================
+15:27:23:092 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+15:27:23:095 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:23:096 [main] INFO  listener.Listener - ==========================================
+15:27:23:678 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:27:23:678 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:23:678 [main] INFO  listener.Listener - ==========================================
+15:27:24:689 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+15:27:24:689 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:24:689 [main] INFO  listener.Listener - ==========================================
+15:27:39:005 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+15:27:39:007 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:39:007 [main] INFO  listener.Listener - ==========================================
+15:27:39:591 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:27:39:591 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:39:591 [main] INFO  listener.Listener - ==========================================
+15:27:40:454 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+15:27:40:454 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:40:454 [main] INFO  listener.Listener - ==========================================
+15:27:40:999 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Update Shipping Status as in-transit
+15:27:40:999 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:27:40:999 [main] INFO  listener.Listener - ==========================================
+15:28:19:809 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+15:28:19:811 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:28:19:811 [main] INFO  listener.Listener - ==========================================
+15:28:20:400 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:28:20:400 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:28:20:401 [main] INFO  listener.Listener - ==========================================
+15:28:21:322 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+15:28:21:322 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:28:21:322 [main] INFO  listener.Listener - ==========================================
+15:28:21:884 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Update Shipping Status as in-transit
+15:28:21:884 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:28:21:884 [main] INFO  listener.Listener - ==========================================
+15:28:45:389 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item_IGST
+15:28:45:391 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:28:45:392 [main] INFO  listener.Listener - ==========================================
+15:28:45:962 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+15:28:45:963 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:28:45:963 [main] INFO  listener.Listener - ==========================================
+15:28:47:331 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+15:28:47:332 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:28:47:332 [main] INFO  listener.Listener - ==========================================
+15:28:47:879 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Update Shipping Status as delivered
+15:28:47:879 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:28:47:879 [main] INFO  listener.Listener - ==========================================
+15:29:42:704 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+15:29:42:707 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:29:42:707 [main] INFO  listener.Listener - ==========================================
+15:29:43:289 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+15:29:43:289 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:29:43:289 [main] INFO  listener.Listener - ==========================================
+15:29:44:518 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with shortpic
+15:29:44:518 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:29:44:518 [main] INFO  listener.Listener - ==========================================
+15:29:57:342 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+15:29:57:344 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:29:57:344 [main] INFO  listener.Listener - ==========================================
+15:29:57:966 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+15:29:57:966 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:29:57:966 [main] INFO  listener.Listener - ==========================================
+15:29:58:932 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+15:29:58:934 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:29:58:935 [main] INFO  listener.Listener - ==========================================
+15:30:27:076 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+15:30:27:079 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:30:27:079 [main] INFO  listener.Listener - ==========================================
+15:30:27:686 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+15:30:27:686 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:30:27:686 [main] INFO  listener.Listener - ==========================================
+15:30:29:014 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with multiple line Item
+15:30:29:014 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+15:30:29:014 [main] INFO  listener.Listener - ==========================================
+17:51:28:339 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+17:51:28:343 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:51:28:343 [main] INFO  listener.Listener - ==========================================
+17:51:28:837 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+17:51:28:837 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:51:28:837 [main] INFO  listener.Listener - ==========================================
+17:51:29:331 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+17:51:29:331 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:51:29:331 [main] INFO  listener.Listener - ==========================================
+17:51:29:899 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Cancel Order in open state with single line Item
+17:51:29:899 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:51:29:899 [main] INFO  listener.Listener - ==========================================
+19:06:59:895 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+19:06:59:898 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:06:59:898 [main] INFO  listener.Listener - ==========================================
+19:07:00:500 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order hold
+19:07:00:500 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:07:00:500 [main] INFO  listener.Listener - ==========================================
+19:07:01:018 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C customer order resume
+19:07:01:018 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:07:01:018 [main] INFO  listener.Listener - ==========================================
+19:07:01:641 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Cancel Order in open state with single line Item
+19:07:01:641 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:07:01:641 [main] INFO  listener.Listener - ==========================================
+10:54:28:381 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+10:54:28:383 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:54:28:384 [main] INFO  listener.Listener - ==========================================
+10:54:29:066 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+10:54:29:067 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:54:29:067 [main] INFO  listener.Listener - ==========================================
+10:54:30:059 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+10:54:30:059 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:54:30:059 [main] INFO  listener.Listener - ==========================================
+10:54:30:810 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+10:54:30:810 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:54:30:810 [main] INFO  listener.Listener - ==========================================
+10:55:10:686 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+10:55:10:687 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:55:10:688 [main] INFO  listener.Listener - ==========================================
+10:55:11:307 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+10:55:11:307 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:55:11:307 [main] INFO  listener.Listener - ==========================================
+10:55:12:137 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in picking state
+10:55:12:137 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:55:12:137 [main] INFO  listener.Listener - ==========================================
+10:55:12:769 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+10:55:12:769 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+10:55:12:769 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8008]
+10:55:12:769 [main] INFO  listener.Listener - ==========================================
+10:55:12:787 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+10:55:12:787 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+10:55:12:787 [main] INFO  listener.Listener - 3. Error Message ==> java.lang.String cannot be cast to java.util.List
+10:55:12:787 [main] INFO  listener.Listener - ==========================================
+11:05:45:560 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+11:05:45:562 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:05:45:562 [main] INFO  listener.Listener - ==========================================
+11:05:46:140 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+11:05:46:140 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:05:46:140 [main] INFO  listener.Listener - ==========================================
+11:05:47:324 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+11:05:47:325 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:05:47:325 [main] INFO  listener.Listener - ==========================================
+11:05:48:047 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+11:05:48:047 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:05:48:048 [main] INFO  listener.Listener - ==========================================
+11:06:30:964 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in picking state
+11:06:30:966 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+11:06:30:967 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8008]
+11:06:30:967 [main] INFO  listener.Listener - ==========================================
+11:26:11:053 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+11:26:11:057 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:26:11:057 [main] INFO  listener.Listener - ==========================================
+11:26:12:024 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+11:26:12:024 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:26:12:024 [main] INFO  listener.Listener - ==========================================
+11:26:13:098 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+11:26:13:098 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:26:13:098 [main] INFO  listener.Listener - ==========================================
+11:26:13:687 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Cancel Order in open state with single line Item
+11:26:13:687 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:26:13:687 [main] INFO  listener.Listener - ==========================================
+11:26:14:591 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+11:26:14:592 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:26:14:592 [main] INFO  listener.Listener - ==========================================
+12:41:12:526 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+12:41:12:529 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:41:12:529 [main] INFO  listener.Listener - ==========================================
+12:41:13:141 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+12:41:13:141 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:41:13:141 [main] INFO  listener.Listener - ==========================================
+12:41:14:146 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC make transferout with single line Item
+12:41:14:146 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:41:14:146 [main] INFO  listener.Listener - ==========================================
+12:41:14:679 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Cancel Order in open state with single line Item
+12:41:14:679 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:41:14:679 [main] INFO  listener.Listener - ==========================================
+12:41:15:393 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Order Cancel in invoice state with Single line Item
+12:41:15:393 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+12:41:15:393 [main] INFO  listener.Listener - ==========================================
+13:46:35:284 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create New Customer CQ
+13:46:35:286 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:46:35:286 [main] INFO  listener.Listener - ==========================================
+13:55:54:781 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create New Customer CQ
+13:55:54:784 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+13:55:54:784 [main] INFO  listener.Listener - ==========================================
+17:30:15:210 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with COD
+17:30:15:215 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+17:30:15:215 [main] INFO  listener.Listener - ==========================================
+17:32:50:384 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with COD
+17:32:50:388 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+17:32:50:388 [main] INFO  listener.Listener - ==========================================
+17:35:19:440 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with prepaid
+17:35:19:443 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+17:35:19:444 [main] INFO  listener.Listener - ==========================================
+17:36:23:923 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with prepaid
+17:36:23:925 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:36:23:926 [main] INFO  listener.Listener - ==========================================
+17:36:54:019 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with COD
+17:36:54:021 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:36:54:021 [main] INFO  listener.Listener - ==========================================
+17:36:54:694 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with prepaid
+17:36:54:694 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:36:54:694 [main] INFO  listener.Listener - ==========================================
+17:37:12:865 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with prepaid
+17:37:12:867 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:37:12:867 [main] INFO  listener.Listener - ==========================================
+17:37:37:204 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create order with COD
+17:37:37:206 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:37:37:206 [main] INFO  listener.Listener - ==========================================
+17:42:20:400 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item with TO
+17:42:20:403 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+17:42:20:403 [main] INFO  listener.Listener - ==========================================
+17:43:47:408 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item with TO
+17:43:47:410 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:43:47:410 [main] INFO  listener.Listener - ==========================================
+17:44:24:755 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item with TO
+17:44:24:759 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:44:24:759 [main] INFO  listener.Listener - ==========================================
+17:44:25:318 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+17:44:25:319 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:44:25:319 [main] INFO  listener.Listener - ==========================================
+17:44:26:354 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+17:44:26:355 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:44:26:355 [main] INFO  listener.Listener - ==========================================
+17:45:06:552 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item with TO
+17:45:06:553 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:45:06:554 [main] INFO  listener.Listener - ==========================================
+17:45:07:117 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+17:45:07:117 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:45:07:117 [main] INFO  listener.Listener - ==========================================
+17:45:08:482 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare make invoice with single line Item
+17:45:08:482 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:45:08:482 [main] INFO  listener.Listener - ==========================================
+17:46:23:855 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+17:46:23:857 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:46:23:857 [main] INFO  listener.Listener - ==========================================
+17:47:21:277 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with multiple line Item
+17:47:21:280 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:47:21:280 [main] INFO  listener.Listener - ==========================================
+17:48:58:101 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with multiple line Items
+17:48:58:103 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:48:58:103 [main] INFO  listener.Listener - ==========================================
+17:49:24:498 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare Create Customer Order with single line Item
+17:49:24:500 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+17:49:24:500 [main] INFO  listener.Listener - ==========================================
+18:05:48:063 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:05:48:067 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+18:05:48:067 [main] INFO  listener.Listener - ==========================================
+18:34:35:017 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:34:35:020 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+18:34:35:020 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8007]
+18:34:35:020 [main] INFO  listener.Listener - ==========================================
+18:36:04:606 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:36:04:609 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+18:36:04:609 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8007]
+18:36:04:609 [main] INFO  listener.Listener - ==========================================
+18:39:12:592 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:39:12:594 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+18:39:12:595 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8007]
+18:39:12:595 [main] INFO  listener.Listener - ==========================================
+18:41:32:896 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:41:32:898 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+18:41:32:898 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8007]
+18:41:32:898 [main] INFO  listener.Listener - ==========================================
+18:42:09:006 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:42:09:008 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+18:42:09:008 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8202]
+18:42:09:008 [main] INFO  listener.Listener - ==========================================
+18:43:59:248 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:43:59:250 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+18:43:59:250 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8301]
+18:43:59:250 [main] INFO  listener.Listener - ==========================================
+18:45:10:679 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:45:10:681 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:45:10:681 [main] INFO  listener.Listener - ==========================================
+18:52:09:588 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC generate picklist with single line Item
+18:52:09:593 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+18:52:09:594 [main] INFO  listener.Listener - 3. Error Message ==> Cannot deserialize value of type `java.util.ArrayList<java.lang.Object>` from Object value (token `JsonToken.START_OBJECT`)
+ at [Source: (File); line: 1, column: 1]
+18:52:09:594 [main] INFO  listener.Listener - ==========================================
+18:52:12:458 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:52:12:458 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:52:12:458 [main] INFO  listener.Listener - ==========================================
+18:54:53:417 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:54:53:420 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:54:53:420 [main] INFO  listener.Listener - ==========================================
+18:55:18:763 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+18:55:18:766 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:55:18:766 [main] INFO  listener.Listener - ==========================================
+18:55:19:504 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+18:55:19:504 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+18:55:19:504 [main] INFO  listener.Listener - ==========================================
+19:00:24:470 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+19:00:24:473 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:00:24:473 [main] INFO  listener.Listener - ==========================================
+19:00:25:228 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+19:00:25:229 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:00:25:229 [main] INFO  listener.Listener - ==========================================
+19:06:01:173 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+19:06:01:176 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:06:01:177 [main] INFO  listener.Listener - ==========================================
+19:07:51:062 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP generate picklist with single line Item
+19:07:51:064 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+19:07:51:064 [main] INFO  listener.Listener - ==========================================
+19:11:07:228 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+19:11:07:231 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+19:11:07:231 [main] INFO  listener.Listener - 3. Error Message ==> Cannot deserialize value of type `java.util.LinkedHashMap<java.lang.Object,java.lang.Object>` from Array value (token `JsonToken.START_ARRAY`)
+ at [Source: (File); line: 1, column: 1]
+19:11:07:231 [main] INFO  listener.Listener - ==========================================
+19:11:10:183 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+19:11:10:184 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:11:10:184 [main] INFO  listener.Listener - ==========================================
+19:14:41:108 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+19:14:41:110 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:14:41:111 [main] INFO  listener.Listener - ==========================================
+19:14:41:886 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+19:14:41:886 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:14:41:886 [main] INFO  listener.Listener - ==========================================
+19:16:28:023 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+19:16:28:026 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:16:28:026 [main] INFO  listener.Listener - ==========================================
+19:16:51:262 [main] INFO  listener.Listener - 1. Scenario Name ==> Csquare generate picklist with single line Item
+19:16:51:264 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:16:51:264 [main] INFO  listener.Listener - ==========================================
+19:16:51:994 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+19:16:51:994 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:16:51:994 [main] INFO  listener.Listener - ==========================================
+19:19:27:388 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+19:19:27:390 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:19:27:391 [main] INFO  listener.Listener - ==========================================
+19:19:27:970 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP generate picklist with single line Item
+19:19:27:970 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:19:27:970 [main] INFO  listener.Listener - ==========================================
+19:34:57:847 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Order Cancel in picking state
+19:34:57:851 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+19:34:57:851 [main] INFO  listener.Listener - ==========================================
+19:36:16:689 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+19:36:16:691 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:36:16:691 [main] INFO  listener.Listener - ==========================================
+19:36:17:274 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP generate picklist with single line Item
+19:36:17:274 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:36:17:274 [main] INFO  listener.Listener - ==========================================
+19:36:17:826 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Order Cancel in picking state
+19:36:17:826 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+19:36:17:826 [main] INFO  listener.Listener - ==========================================
+10:14:42:992 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP Create Order with single line Item
+10:14:42:994 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:14:42:995 [main] INFO  listener.Listener - ==========================================
+10:20:23:946 [main] INFO  listener.Listener - 1. Scenario Name ==> ZipERP order cancel in open state
+10:20:23:949 [main] INFO  listener.Listener - 2. Scenario Status ==> UNDEFINED
+10:20:23:949 [main] INFO  listener.Listener - ==========================================
+10:25:46:564 [main] INFO  listener.Listener - 1. Scenario Name ==> FC2FC Create Order with single line Item
+10:25:46:566 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+10:25:46:567 [main] INFO  listener.Listener - ==========================================
+10:26:17:178 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+10:26:17:180 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+10:26:17:180 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8003]
+10:26:17:180 [main] INFO  listener.Listener - ==========================================
+11:26:48:896 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+11:26:48:899 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:26:48:899 [main] INFO  listener.Listener - ==========================================
+11:27:12:826 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+11:27:12:829 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+11:27:12:830 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8003]
+11:27:12:830 [main] INFO  listener.Listener - ==========================================
+11:36:50:366 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+11:36:50:525 [main] INFO  listener.Listener - 2. Scenario Status ==> FAILED
+11:36:50:526 [main] INFO  listener.Listener - 3. Error Message ==> expected [1000] but found [8003]
+11:36:50:527 [main] INFO  listener.Listener - ==========================================
+11:37:34:125 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C Create Order with single line Item
+11:37:34:132 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:37:34:133 [main] INFO  listener.Listener - ==========================================
+11:38:11:453 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C generate picklist with single line Item
+11:38:11:461 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:38:11:462 [main] INFO  listener.Listener - ==========================================
+11:38:45:086 [main] INFO  listener.Listener - 1. Scenario Name ==> B2C make invoice with single line Item
+11:38:45:094 [main] INFO  listener.Listener - 2. Scenario Status ==> PASSED
+11:38:45:095 [main] INFO  listener.Listener - ==========================================

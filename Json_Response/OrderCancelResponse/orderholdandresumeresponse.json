@@ -1,0 +1,12 @@
+{
+  "returnCode" : 1000,
+  "returnText" : "Order Resumed Successfully",
+  "requestUrl" : "/nma/customerorders/NMS-1906576?cmd=resume&branchCode=769&reason=customer%20edit",
+  "returnDataCount" : 1,
+  "returnData" : {
+    "orderId" : "NMS-1906576",
+    "transactionId" : "COHX0F220011019",
+    "branchCode" : "769",
+    "transactionTimestamp" : "2023-02-28 19:06:58"
+  }
+}

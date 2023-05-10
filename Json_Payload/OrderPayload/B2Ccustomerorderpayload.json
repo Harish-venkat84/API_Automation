@@ -1,0 +1,48 @@
+{
+  "customerOrderSource" : "NMS",
+  "orderType" : "O",
+  "totalTndAmt" : 0.0,
+  "orderId" : "NMS-1137291",
+  "paymentMode" : "COD",
+  "shippingCharges" : 0.0,
+  "totalDueAmt" : 2000.0,
+  "lineItemCount" : 1,
+  "branchCode" : "769",
+  "tenderPaymentGateway" : 0.0,
+  "totalBillAmt" : 2000.0,
+  "customerOrderPriorityCode" : "N",
+  "metroFlag" : true,
+  "primaryOrderId" : "FLA0002867214",
+  "customerId" : "d265e7ae18",
+  "shippingAddress" : {
+    "country" : "India",
+    "city" : "CHENNAI",
+    "phone" : "9620629843",
+    "postalCode" : 600002,
+    "addressLine1" : "outer ring road",
+    "addressLine2" : "akme harmony 2c 701",
+    "state" : "Tamilnadu",
+    "customerName" : "Network Medicine"
+  },
+  "tenderCusWalletAcc" : 0,
+  "orderTimestamp" : "2022-06-30 09:10:03.000",
+  "billingAddress" : {
+    "country" : "India",
+    "city" : "CHENNAI",
+    "phone" : "9620629843",
+    "postalCode" : 600002,
+    "addressLine1" : "outer ring road",
+    "addressLine2" : "akme harmony 2c 701",
+    "state" : "Tamilnadu",
+    "customerName" : "Network Medicine"
+  },
+  "items" : [ {
+    "productShippingCharge" : 0,
+    "itemId" : "14735",
+    "seqNo" : 1,
+    "qty" : 4,
+    "discountPer" : 0.0,
+    "mrp" : 500,
+    "inflammableFlag" : false
+  } ]
+}

@@ -1,0 +1,11 @@
+{
+  "buId" : "769",
+  "partyId" : "1246476",
+  "customerOrderRefId" : "CSQ-CO-1749222",
+  "saleReturnLineItemSet" : [ {
+    "itemId" : "14735",
+    "quantity" : 4,
+    "seqNum" : 1
+  } ],
+  "totalItemCount" : 1
+}

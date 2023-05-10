@@ -1,0 +1,50 @@
+{
+  "buId" : "769",
+  "customerOrderSource" : "ZIPERP",
+  "totalDscAmt" : 51.9,
+  "retailTransactionLineItemSet" : [ {
+    "classType" : "RWDiscountLineItem",
+    "retailTransactionLineItemTypeCode" : "DS",
+    "discountTypeCode" : "BASE",
+    "amount" : 22.42
+  } ],
+  "totalCgst" : 0.0,
+  "saleReturnLineItemSet" : [ {
+    "seqNum" : 1,
+    "b2bSeqNum" : 1.0,
+    "itemId" : "14735",
+    "quantity" : 1.0,
+    "mrp" : 807.0,
+    "ptr" : 500.0,
+    "schemeFlag" : false,
+    "extendedAmount" : 747.5,
+    "discPercent" : 3.0,
+    "discountTotal" : 22.42,
+    "cgstPercent" : 0.0,
+    "sgstPercent" : 0.0,
+    "igstPercent" : 18.0,
+    "taxTotal" : 87.01,
+    "referSaleReturnLineitemSeqNum" : 0,
+    "discountLineItemSet" : [ {
+      "seqNum" : 1,
+      "type" : "BASE",
+      "discountPercent" : 3.0,
+      "discountAmount" : 22.42
+    } ]
+  } ],
+  "remark" : "",
+  "totalTndPg" : 572,
+  "totalItemCount" : 1,
+  "totalDueAmt" : 0.0,
+  "totalSgst" : 0.0,
+  "totalIgst" : 201.37,
+  "paymentModeCode" : "",
+  "totalTaxAmt" : 201.37,
+  "totalNetsaleAmt" : 1678.13,
+  "customerOrderRefId" : "ZE-1014408-1",
+  "totalBillAmt" : 572,
+  "totalGrsAmt" : 1730.03,
+  "totalUnitCount" : 1,
+  "partyId" : "NWS1000208-1",
+  "customerOrderDate" : "2022-02-04T13:11:37Z"
+}

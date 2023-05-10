@@ -1,0 +1,32 @@
+{
+  "returnCode" : 1000,
+  "returnText" : "Success",
+  "requestUrl" : "/nma/customerorders/picklist?branchCode=769&cmd=create",
+  "returnDataCount" : 1,
+  "returnData" : [ {
+    "transactionId" : "COHX0F220011537",
+    "branchCode" : "769",
+    "interStoreFlag" : false,
+    "inventoryStatus" : "PROCESSED",
+    "deliveryStatus" : "OPEN",
+    "itemDetails" : [ {
+      "itemId" : "14735",
+      "seqNumber" : 1,
+      "orderQty" : 4.0,
+      "fulfilledQty" : 0.0,
+      "pendingQty" : 4.0,
+      "pickListQty" : 4.0,
+      "reservedQty" : 4.0,
+      "partialShortPickAllowedFlag" : true,
+      "batchDetails" : [ {
+        "batchId" : "1234556",
+        "expiryDate" : "2024-11-30",
+        "mrpRate" : 500.0,
+        "qty" : 4.0,
+        "barCode" : "76900006102"
+      } ]
+    } ]
+  } ],
+  "failureData" : [ ],
+  "failureCount" : 0
+}

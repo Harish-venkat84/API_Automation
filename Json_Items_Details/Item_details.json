@@ -1,0 +1,29 @@
+[
+	{
+		"productShippingCharge": 0,
+		"itemId": "14735",
+		"seqNo": 1,
+		"qty": 4,
+		"discountPer": 0.0,
+		"mrp": 500,
+		"inflammableFlag": false
+	},
+	{
+		"productShippingCharge": 0,
+		"itemId": "813655",
+		"seqNo": 2,
+		"qty": 1,
+		"discountPer": 5.9,
+		"mrp": 845,
+		"inflammableFlag": false
+	},
+	{
+		"productShippingCharge": 0,
+		"itemId": "921071",
+		"seqNo": 3,
+		"qty": 1,
+		"discountPer": 5.9,
+		"mrp": 807.00,
+		"inflammableFlag": false
+	}
+]

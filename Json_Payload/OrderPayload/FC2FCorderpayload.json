@@ -1,0 +1,15 @@
+{
+  "branchCode" : "769",
+  "supplierId" : "768",
+  "poDate" : "2022-09-01 11:22:53.314",
+  "subType" : "normal",
+  "type" : "long",
+  "items" : [ {
+    "itemId" : "14735",
+    "seqNo" : 1,
+    "qty" : 4,
+    "freeQty" : 0
+  } ],
+  "expDate" : "2022-11-30 14:04:53.314",
+  "lineItemCount" : 1
+}

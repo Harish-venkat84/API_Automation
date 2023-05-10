@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Parallel Testing]" parallel="methods">
+  <test thread-count="2" name="Parallel test 1(failed)" parallel="methods">
+    <classes>
+      <class name="stepDefinitions.FC2FCOrderSingleLineItem">
+        <methods>
+          <include name="generatePicklist"/>
+          <include name="makeInvoice"/>
+          <include name="fc2fcOrderCreation"/>
+        </methods>
+      </class> <!-- stepDefinitions.FC2FCOrderSingleLineItem -->
+    </classes>
+  </test> <!-- Parallel test 1(failed) -->
+</suite> <!-- Failed suite [Parallel Testing] -->
